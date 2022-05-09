@@ -132,6 +132,4 @@ done()
 - [ ] Triangulo pendiente
 - [ ] Rectangulooo
 
-H^2^
-
 Practicar github
