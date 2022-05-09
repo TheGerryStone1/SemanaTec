@@ -3,8 +3,9 @@
 ## - Gerardo Mora Beltrán - A00827128 - ITC - Semestre 6
 ### - Los Mochis, Sinaloa
 
-** 2. Bold **
-* 3. Italica *
+**2. Bold**
+
+*3. Italica*
 > blockquote
 
 Lista ordenada de mis platillos favoritos
@@ -112,5 +113,25 @@ onkey(lambda: store('shape', rectangle), 'r')
 onkey(lambda: store('shape', triangle), 't')
 done()
 ```
+
+---
+# Link
+[Titulo](https://www.github.com)
+
+# Imagen
+![Imagen](https://i.pinimg.com/474x/74/61/7a/74617a0b84fc2cac8ede0f948791c628.jpg)
+
+# Tabla
+| Syntax | Description |
+| ---------- | ------------ |
+| Header | Title |
+| Paragraph | Text |
+
+# Actividades
+- [X] Rutina circulo
+- [ ] Triangulo pendiente
+- [ ] Rectangulooo
+
+H^2^
 
 Practicar github
